@@ -16,10 +16,10 @@ This project showcases small, standalone Tkinter functions, each focusing on a s
 
 ## Repository Structure
 
-- **`button_example.py`**: Shows how to create and configure a button with an event handler.
-- **`label_example.py`**: Demonstrates how to add and customize labels.
-- **`entry_example.py`**: Provides an example of using entry fields for user input.
-- **`menu_example.py`**: Illustrates how to create a basic menu bar with dropdown options.
+- **`menubutton.py`**: Shows how to create and configure a button with an event handler.
+- **`scrollbar.py`**: Demonstrates how to add and customize labels.
+- **`scale.py`**: Provides an example of using entry fields for user input.
+- **`image.py`**: Illustrates how to create a basic menu bar with dropdown options.
 
 ## Getting Started
 
